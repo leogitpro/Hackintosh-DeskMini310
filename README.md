@@ -23,6 +23,15 @@ MacOS 10.14.x Mojave on ASRock DeskMini 310/com with UHD(4k), QQ 交流群: `580
 - USB完美
 
 
+## BIOS 配置
+
+BIOS 配置使用默认配置, 只需要对下面三个部分进行调整. 以 P1.1 版本的出厂 BIOS 为例:
+
+- USB handoff => `Enable`
+- HDMI/Audio => `Enable`
+- Security boot => `Disable`
+
+
 ## 网卡: `BCM94352z`
 
 完美支持 `BCM94352z` 网卡, 需要添加额外三驱动文件:
