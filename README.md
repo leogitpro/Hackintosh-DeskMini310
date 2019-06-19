@@ -27,9 +27,9 @@ MacOS 10.14.x Mojave on ASRock DeskMini 310/com with UHD(4k), QQ 交流群: `580
 
 BIOS 配置使用默认配置, 只需要对下面三个部分进行调整. 以 P1.1 版本的出厂 BIOS 为例:
 
-- USB handoff => `Enable`
-- HDMI/Audio => `Enable`
-- Security boot => `Disable`
+- `USB Configuration` => `XHCI Hand-off` => `Enabled`
+- `Onboard HD Audio` => `Enabled`
+- `Security boot` => `Disabled`
 
 
 ## 网卡: `BCM94352z`
