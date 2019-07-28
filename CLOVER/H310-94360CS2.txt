@@ -1,0 +1,7 @@
+机器配置: ASRock H310/COM
+BIOS: 4.1
+CPU: I7-8700T ES(工程测试版)
+内存: DDR4 8GX2
+硬盘: SSD SATA3
+网卡: 94360CS2
+

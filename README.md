@@ -23,9 +23,9 @@ MacOS 10.14.x Mojave on ASRock DeskMini 310/com with UHD(4k), QQ 交流群: `580
 - USB完美
 
 
-## BIOS 配置
+## BIOS 配置 版本： P4.1
 
-BIOS 配置使用默认配置, 只需要对下面三个部分进行调整. 以 P1.1 版本的出厂 BIOS 为例:
+BIOS 配置使用默认配置, 只需要对下面三个部分进行调整. 以 P4.1 版本的出厂 BIOS 为例:
 
 - `USB Configuration` => `XHCI Hand-off` => `Enabled`
 - `Onboard HD Audio` => `Enabled`
@@ -46,3 +46,10 @@ BIOS 配置使用默认配置, 只需要对下面三个部分进行调整. 以 P
 ## 使用方式
 
 下载 CLOVER 目录, 替换自己硬盘 `EFI` 分区中的同名目录即可.
+
+
+## 视频教程
+
+全套视频教程可以网盘下载：
+
+链接: [https://pan.baidu.com/s/1XC9T6pXPFoYHzk_v-OLoBg](https://pan.baidu.com/s/1XC9T6pXPFoYHzk_v-OLoBg) 提取码: `c64g`
