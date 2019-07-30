@@ -916,26 +916,6 @@
 		</dict>
 		<key>#TextOnly</key>
 		<false/>
-		<key>Custom</key>
-		<dict>
-			<key>Entries</key>
-			<array>
-				<dict>
-					<key>Disabled</key>
-					<false/>
-					<key>FullTitle</key>
-					<string>Win10</string>
-					<key>Ignore</key>
-					<false/>
-					<key>Type</key>
-					<string>Windows</string>
-					<key>Volume</key>
-					<string>A5593D1B-B525-4061-AB5F-B5542DFD3AC2</string>
-					<key>VolumeType</key>
-					<string>Internal</string>
-				</dict>
-			</array>
-		</dict>
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
@@ -944,16 +924,7 @@
 		<key>Language</key>
 		<string>en:0</string>
 		<key>Scan</key>
-		<dict>
-			<key>Entries</key>
-			<true/>
-			<key>Legacy</key>
-			<false/>
-			<key>Linux</key>
-			<false/>
-			<key>Tool</key>
-			<false/>
-		</dict>
+		<true/>
 		<key>ScreenResolution</key>
 		<string>3840x2160</string>
 		<key>ShowOptimus</key>
