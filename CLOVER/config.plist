@@ -320,11 +320,11 @@
 		<key>#XMPDetection</key>
 		<string>-1</string>
 		<key>Arguments</key>
-		<string>slide=0 darkwake=no</string>
+		<string>slide=0 darkwake=no -v</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>MacSSD</string>
+		<string>LastBootedVolume</string>
 		<key>DisableCloverHotkeys</key>
 		<false/>
 		<key>Legacy</key>
@@ -350,8 +350,6 @@
 		<string>0xF0F0F0</string>
 		<key>EFILoginHiDPI</key>
 		<integer>1</integer>
-		<key>UIScale</key>
-		<integer>2</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -925,12 +923,8 @@
 		<string>en:0</string>
 		<key>Scan</key>
 		<true/>
-		<key>ScreenResolution</key>
-		<string>3840x2160</string>
 		<key>ShowOptimus</key>
 		<false/>
-		<key>Theme</key>
-		<string>Bootcamp4k</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -1314,7 +1308,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C07816270GUAD</string>
+		<string>C07829405QX1H</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -1344,9 +1338,9 @@
 		<key>ProductName</key>
 		<string>Macmini8,1</string>
 		<key>SerialNumber</key>
-		<string>C07WL5Z7JYVX</string>
+		<string>C07X38YAJYVX</string>
 		<key>SmUUID</key>
-		<string>A285A3A1-90FC-40E3-AC23-4A1B1D283431</string>
+		<string>34011145-4849-4572-B5EA-B0CE5C00827C</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
@@ -1361,7 +1355,7 @@
 		<key>#NvidiaWeb</key>
 		<false/>
 		<key>CustomUUID</key>
-		<string>D699CAC7-B0F4-568E-AA43-48218F506A4A</string>
+		<string>78855998-7959-4818-BB61-543B04D52853</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>

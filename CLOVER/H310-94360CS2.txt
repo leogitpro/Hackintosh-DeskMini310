@@ -5,3 +5,8 @@ CPU: I7-8700T ES(工程测试版)
 硬盘: SSD SATA3
 网卡: 94360CS2
 
+Cover: 5070
+
+MacOS: 10.15
+
+

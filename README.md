@@ -32,7 +32,9 @@ BIOS 配置使用默认配置, 只需要对下面三个部分进行调整. 以 P
 - `Security boot` => `Disabled`
 
 
-## Clover 版本: 5018
+## Clover 版本: 5070
+
+CLOVER 版本需要 5070 以上
 
 
 ## 网卡: `BCM94352z`
