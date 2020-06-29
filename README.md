@@ -1,26 +1,34 @@
 # Hackintosh-DeskMini310
 
-MacOS 10.14.x Mojave on ASRock DeskMini 310/com with UHD(4k), QQ 交流群: `580456695`
+MacOS 10.15.5 Catalina on ASRock DeskMini 310/com with UHD(4k), QQ 交流群: `580456695`
+本驱动兼容 10.14.X 版本
+
+### 本驱动可以完美支持 MacOS 系统, 目前无任何问题发现.
+<br>
+
 
 ## 硬件配置
 
-- `CPU`: Intel I7-8700Tes (`QN8J`)
+- `CPU`: Intel I7-9900T es
 - `内存`: 十栓 DDR4 2400 8Gx2
 - `硬盘`: WD SN750 512G
 - `显卡`: 集成显卡
 - `网卡`: BCM94360CS2
 - `显示器`: KOIOS K2718UD
+<br>
 
 
 ## 黑苹果状态
 
-黑苹果兼容所有 8 代 Intel CPU, 可随意更换 CPU. 网卡使用苹果官方拆机网卡+加转接板实现免驱. 所有 USB 端口已经做了补丁. 配合超低价 4K 显示器, 默认支持 Retina 模式. 显示完美.
+黑苹果兼容所有 8/9 代 Intel CPU, 可随意更换 CPU. 网卡使用苹果官方拆机网卡+加转接板实现免驱. 所有 USB 端口已经做了补丁. 配合超低价 4K 显示器, 默认支持 Retina 模式. 显示完美.
 
 - 睡眠完美
 - 网络完美
 - 声音自动切换耳机与喇叭完美
 - 显示 DP 输出完美, HDMI 未测试, VGA 不支持
 - USB完美
+- 其他: 统统完美
+<br>
 
 
 ## BIOS 配置 版本： P4.1
@@ -31,10 +39,13 @@ BIOS 配置使用默认配置, 只需要对下面三个部分进行调整. 以 P
 - `Onboard HD Audio` => `Enabled`
 - `Security boot` => `Disabled`
 
+<br>
 
-## Clover 版本: 5070
 
-CLOVER 版本需要 5070 以上
+## Clover 版本: 5119
+
+CLOVER 版本 5119
+<br>
 
 
 ## 网卡: `BCM94352z`
@@ -47,10 +58,12 @@ CLOVER 版本需要 5070 以上
 
 > 将上述上个文件放置到 `/EFI/CLOVER/kexts/Other/` 目录下. 更换网卡, 重启即可.
 
+<br>
 
 ## 使用方式
 
 下载 CLOVER 目录, 替换自己硬盘 `EFI` 分区中的同名目录即可.
+<br>
 
 
 ## 视频教程
