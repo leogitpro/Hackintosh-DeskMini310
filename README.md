@@ -3,6 +3,8 @@
 MacOS 10.15.5 Catalina on ASRock DeskMini 310/com with UHD(4k), QQ 交流群: `580456695`
 本驱动兼容 10.14.X 版本
 
+![ScreenShot-10.15.5](ScreenShot-10.15.5.png "ScreenShot 10.15.5")
+
 ### 本驱动可以完美支持 MacOS 系统, 目前无任何问题发现.
 <br>
 
@@ -62,7 +64,7 @@ CLOVER 版本 5119
 
 ## 使用方式
 
-下载 CLOVER 目录, 替换自己硬盘 `EFI` 分区中的同名目录即可.
+下载 EFI 目录, 替换自己硬盘 `EFI` 分区中的同名目录即可.
 <br>
 
 
