@@ -68,6 +68,26 @@ CLOVER 版本 5119
 <br>
 
 
+## 可能的睡眠问题
+
+- 工具修复
+
+打开 Hackintool 工具, 在 `Power|电源` 菜单下. 有红色的选项, 点击下部的 `螺丝刀` 修复按钮, 输入密码, 进行修复即可.
+
+- 手动修复
+
+```bash
+pmset -g
+```
+> 如果 `proximitywake` 选项配置值为: `1`, 修改成 `0`, 如果 `hibernatemode` 选项配置值为: `1`, 改成 `0`.
+
+```bash
+pmset -a hibernatemode 0
+pmset -a proximitywake 0
+```
+<br>
+
+
 ## 视频教程
 
 全套视频教程可以网盘下载：
